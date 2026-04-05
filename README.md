@@ -51,18 +51,6 @@
 
 <div align="center">
 	
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
-  
-[![1.1]][1]
-[![1.2]][2]
-[![1.3]][3]
-[![1.4]][4]
-[![1.5]][5]
-[![1.6]][6]
-[![1.7]][7]
-
-
-
 ---
 
 Latest Version: 3.10  
