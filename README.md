@@ -61,22 +61,7 @@
 [![1.6]][6]
 [![1.7]][7]
 
-[1.1]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.2]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.3]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.4]: https://massgrave.dev/img/logo_x.png (Twitter)
 
-[1.5]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.6]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.7]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
-
-[1]: https://discord.gg/j2yFsV5ZVC
-[2]: https://www.reddit.com/r/MAS_Activator
-[3]: https://bsky.app/profile/massgrave.dev
-[4]: https://twitter.com/massgravel
-[5]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[6]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[7]: https://git.activated.win/Microsoft-Activation-Scripts
 
 ---
 
